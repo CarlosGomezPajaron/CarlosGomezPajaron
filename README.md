@@ -1,5 +1,6 @@
 <h1> About me: </h1> <br>
 - 👋 Hi, I’m @CarlosGomezPajaron <br>
+- 🇪🇸  I am Spanish <br>
 - 👀 I’m really invested in anything relating computers, especially in <strong> software </strong>! <br>
 - 🌱 I’m currently learning cross-platform <strong> appliaction development </strong> <br>
 
