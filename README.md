@@ -1,15 +1,17 @@
 <h1> About me: </h1> <br>
 - 👋 Hi, I’m @CarlosGomezPajaron <br>
-- 👀 I’m really invested in everything about computers, especially in <strong> software </strong>! <br>
+- 👀 I’m really invested in anything relating computers, especially in <strong> software </strong>! <br>
 - 🌱 I’m currently learning cross-platform <strong> appliaction development </strong> <br>
 
-<h3> Experience: </h3> <br>
-- 💻 trying to get the HND in cross-platform appliaction development  <br>
-- 🎓  I have a national diploma in Micro-Computer systems and networks <br>
+<h3> Past Experience and Certificates: </h3> <br>
+- 💻 Currently trying to get the Higher National Diploma (HND) in cross-platform appliaction development  <br>
+- 🎓  I have a National Diploma (ND) in Micro-Computer systems and networks <br>
+- 📚  I have a international C1/C2 Cambridge certificate <br>
+
 
 <h3> Goals and personal data: </h3>  <br>
-- 💞️ I’m looking to collaborate on projects that will make me learn new ways to see and do things <br>
-- ✨ Pronouns: he/him <br>
+- 💞️ I’m looking to collaborate on projects that will enchance my troubleshooting skills and creativity <br>
+- ✨ Pronouns: preferably he/him <br>
 - 🎯 Goals: Hopefully make my own applications on spare time. <br>
 
 <!---
