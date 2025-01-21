@@ -8,7 +8,7 @@
 
 
 <h3> Past Experience and Certificates: </h3> 
-- 💻  <strong>Currently:</strong>strong> Higher National Diploma (HND) in cross-platform appliaction development  <br>
+- 💻  <strong>Currently:</strong> Higher National Diploma (HND) in cross-platform appliaction development  <br>
 - 🎓 <strong> Degrees gotten:</strong> I have a National Diploma (ND) in Micro-Computer systems and networks <br>
 - 💼  <strong>Work experience:</strong> I have done a job internship for the ND which gave me 400 hours of job experience <br>
 - 📚  <strong>Speaking other languages:</strong> I have a international C1/C2 Cambridge certificate 
