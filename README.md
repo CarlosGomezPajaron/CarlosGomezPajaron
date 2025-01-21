@@ -4,14 +4,14 @@
 - 👋 Hi, I’m @CarlosGomezPajaron <br>
 - 🇪🇸  I am Spanish <br>
 - 👀 I’m really invested in anything relating computers, especially in <strong> software </strong>! <br>
-- 🌱 I’m currently learning cross-platform <strong> appliaction development </strong> <br>
+- 🌱 I’m currently learning cross-platform <strong> appliaction development </strong> 
 
 
 <h3> Past Experience and Certificates: </h3> <br>
 - 💻 Currently trying to get the Higher National Diploma (HND) in cross-platform appliaction development  <br>
 - 🎓  I have a National Diploma (ND) in Micro-Computer systems and networks <br>
 - 💼  I have done a job internship for the ND which gave me 400 hours of job experience <br>
-- 📚  I have a international C1/C2 Cambridge certificate <br>
+- 📚  I have a international C1/C2 Cambridge certificate 
 
 
 <h3> Goals and personal data: </h3>  <br>
