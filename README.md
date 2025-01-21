@@ -14,7 +14,7 @@
 <h3> Goals and personal data: </h3>  <br>
 - 💞️ I’m looking to collaborate on projects that will enchance my creativity when optimizing code and solving the problems within it <br>
 - ✨ Pronouns: he/him <br>
-- 🎯 Goals: Hopefully make my own applications on spare time. <br>
+- 🎯 Goals: Hopefully make my own applications during my spare time. <br>
 
 <!---
 CarlosGomezPajaron/CarlosGomezPajaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
