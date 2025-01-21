@@ -1,6 +1,6 @@
 <h1> About me: </h1> <br>
 - 👋 Hi, I’m @CarlosGomezPajaron <br>
-- 👀 I’m really invested in computers, especially in <strong> software </strong>! <br>
+- 👀 I’m really invested in everything about computers, especially in <strong> software </strong>! <br>
 - 🌱 I’m currently learning cross-platform <strong> appliaction development </strong> <br>
 
 <h3> Experience: </h3> <br>
