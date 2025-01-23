@@ -13,7 +13,7 @@
 
 <h3> 👩‍💻 About myself: </h3>
 - 👋 Hi, I’m @CarlosGomezPajaron <br>
-- 🇪🇸  <strong> Nationality  </strong>: I am Spanish (Speaks ESP/ENG) <br>
+- 🇪🇸  <strong> Nationality  </strong>: I am Spanish (Speaks Spanish and English) <br>
 - 👀  <strong> Interests:</strong>  I’m really invested in anything relating computers, especially in <strong> software </strong>! <br>
 - 🌱  <strong>Currently studying:</strong> I’m currently learning cross-platform <strong> appliaction development </strong> 
 
