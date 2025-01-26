@@ -33,7 +33,7 @@
 
 <h3> 💞️ Goals and personal data: </h3> 
 - 🔥 <strong>Motivation:</strong> I’m looking foward to collaborate on projects that will enchance my creativity and skills <br>
-- 🎯 <strong>Goals:</strong> Make my own applications during my spare time, be able to work in a development team and learning another language. <br>
+- 🎯 <strong>Goals:</strong> Make my own apps during my spare time, working in a development team and learning another language (programming or not). <br>
 - ✨ <strong> Pronouns: </strong> he/him <br>
 
 
