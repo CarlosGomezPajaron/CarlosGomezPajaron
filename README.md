@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img style= "width: 20em; height: 20em;" src="https://placehold.co/400"/>
+  <img style= "width: 20em; height: 20em;" src="https://github.com/CarlosGomezPajaron/CarlosGomezPajaron/blob/277e24b9e8dce9d00d71fe56686a2c185e1bcdd3/system%20of%20a%20dam.png"/>
 </div>
 
 
@@ -14,7 +14,7 @@
 <h3> 👩‍💻 About myself: </h3>
 - 👋 Hi, I’m @CarlosGomezPajaron <br>
 - 🇪🇸  <strong> Nationality  </strong>: I am Spanish (Speaks Spanish and English) <br>
-- 👀  <strong> Interests:</strong>  I’m really invested in anything relating computers, especially in <strong> software </strong>! <br>
+- 👀  <strong> Interests:</strong>  I’m really invested in anything relating computers, especially in <strong> software but music and gaming as well </strong>! <br>
 - 🌱  <strong>Currently studying:</strong> I’m currently learning cross-platform <strong> appliaction development </strong> 
 
 <br>
