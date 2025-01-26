@@ -7,7 +7,7 @@
 <input type="button" value="LINKEDIN" style="background-color: rgb(28, 76, 148); border-radius: 14px; color: white; width: 10em; height: 3em; font-size: 100%; font-family:Verdana, Geneva, Tahoma, sans-serif;" >
 
 <div align="center">
-<img  style= "width: 6em; height: 3em; " src="https://placehold.co/100x50/blue/white"/>
+<img  style= "width: 5em; height: 2em;" src="https://github.com/CarlosGomezPajaron/CarlosGomezPajaron/blob/main/linkedinbutton.png"/>
 </div>
 <h1 align="center"> Hello!👋 Welcome to my profile! </h1> 
 
