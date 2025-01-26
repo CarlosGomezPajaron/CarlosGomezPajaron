@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img style= "width: 20em; height: 20em;" src="https://github.com/CarlosGomezPajaron/CarlosGomezPajaron/blob/277e24b9e8dce9d00d71fe56686a2c185e1bcdd3/system%20of%20a%20dam.png"/>
+  <img style= "width: 20em; height: 20em;" src="https://github.com/CarlosGomezPajaron/CarlosGomezPajaron/blob/main/system%20of%20a%20dam2.png"/>
 </div>
 
 
