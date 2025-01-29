@@ -7,7 +7,15 @@
 <input type="button" value="LINKEDIN" style="background-color: rgb(28, 76, 148); border-radius: 14px; color: white; width: 10em; height: 3em; font-size: 100%; font-family:Verdana, Geneva, Tahoma, sans-serif;" >
 
 <div align="center">
+
+  
+<a href="https://www.linkedin.com/in/carlos-g%C3%B3mez-pajar%C3%B3n-21ba82349/">
+
 <img  style= "width: 5em; height: 2em;" src="https://github.com/CarlosGomezPajaron/CarlosGomezPajaron/blob/main/linkedinbutton.png"/>
+  
+</a>
+
+
 </div>
 <h1 align="center"> Hello!👋 Welcome to my profile! </h1> 
 
