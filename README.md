@@ -9,7 +9,7 @@
 <div align="center">
 
   
-<a href="https://www.linkedin.com/in/carlos-g%C3%B3mez-pajar%C3%B3n-21ba82349/">
+<a href="https://www.linkedin.com/in/carlosgomezpajaron/">
 
 <img  style= "width: 5em; height: 2em;" src="https://github.com/CarlosGomezPajaron/CarlosGomezPajaron/blob/main/linkedinbutton.png"/>
   
