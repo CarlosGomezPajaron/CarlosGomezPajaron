@@ -3,7 +3,6 @@
   <img style= "width: 20em; height: 20em;" src="https://github.com/CarlosGomezPajaron/CarlosGomezPajaron/blob/main/system%20of%20a%20dam2.png"/>
 </div>
 
-
 <input type="button" value="LINKEDIN" style="background-color: rgb(28, 76, 148); border-radius: 14px; color: white; width: 10em; height: 3em; font-size: 100%; font-family:Verdana, Geneva, Tahoma, sans-serif;" >
 
 <div align="center">
