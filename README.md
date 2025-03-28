@@ -1,8 +1,10 @@
+<div align="center">                            </div>
 
 
-<input type="button" value="LINKEDIN" style="background-color: rgb(28, 76, 148); border-radius: 14px; color: white; width: 10em; height: 3em; font-size: 100%; font-family:Verdana, Geneva, Tahoma, sans-serif;" >
 
 <div align="center">
+
+
 
   
 <a href="https://www.linkedin.com/in/carlosgomezpajaron/">
