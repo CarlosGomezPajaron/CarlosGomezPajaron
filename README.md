@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img style= " height: 12em;"  src="https://raw.githubusercontent.com/CarlosGomezPajaron/CarlosGomezPajaron/refs/heads/main/hello.gif">
+<img style= " height: 3.5em;"  src="https://raw.githubusercontent.com/CarlosGomezPajaron/CarlosGomezPajaron/26e8ec5b06491414e6a509923347d50f0c687347/hello.gif">
 
 
 </div>
